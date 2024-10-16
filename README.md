@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About Me ❗
-I am a Computer Science student at Brigham Young University. I currently work as a full stack developer at BYU's Office of Information Technology. I love coding ♥️
+I am a Computer Science student at Brigham Young University. I currently work as a software engineer at Paramify. I love coding ♥️
 
 ### Currently Learning 🌱
 I am currently learning Vim (Neovim) and I'm interested in learning Rust soon!
